@@ -1,0 +1,10 @@
+transformers>=4.14.1
+sentence-transformers==2.0.0
+pandas
+torch>=1.7.0
+tqdm==4.59.0
+ipywidgets==7.7.0
+pathlib2
+datasets>=2.4.0
+huggingface_hub==0.4.0
+protobuf==3.19.4
